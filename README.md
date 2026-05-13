@@ -1,1 +1,1 @@
-# rpg1
+Theres a lot of stuff here, but it also contains a godot project file, which can be run in godot to access a copy of this game, if you want, but otherwise, its not finishe yet and when I do finish it I'm gonna put it on ITCH, but other than that, you can look at the code
