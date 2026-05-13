@@ -1,1 +1,2 @@
-Theres a lot of stuff here, but it also contains a godot project file, which can be run in godot to access a copy of this game, if you want, but otherwise, its not finishe yet and when I do finish it I'm gonna put it on ITCH, but other than that, you can look at the code
+Theres a lot of stuff here, but it also contains a godot project file, which can be run in godot to access a copy of this game, if you want, but otherwise, its not finished yet and when I do finish it I'm gonna put it on ITCH, but other than that, you can look at the code.
+Github is also being annoying so yet another google drive link, to the full thing, will be included here: https://drive.google.com/file/d/18dJXVCdQLSMH0q9ABn9t-YxsZw_xG6qF/view?usp=sharing
